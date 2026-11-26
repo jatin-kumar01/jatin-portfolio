@@ -189,7 +189,7 @@
   z-index: 5 !important;
 }
 .board-portrait {
-  opacity: 0.95 !important;
+  opacity: 0.93 !important;
   filter: grayscale(1) brightness(0.95) contrast(1.05) !important;
 }
 
